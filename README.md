@@ -1,17 +1,21 @@
 # 🖥️ Application Walkthroughs
 
-This repository demonstrates how to analyze and document complex applications in a way that makes them **relatable, structured, and useful** for both end-users and QA professionals.
+This repository demonstrates how to **analyze, understand, and support complex applications** in practice.  
+The focus is on helping end‑users and colleagues by providing clear guides, troubleshooting steps, and practical tips.
 
 ## 🎯 Purpose
-- Show ability to quickly understand complex systems
-- Provide clear overviews and user-friendly guides
-- Translate technical/regulatory requirements into practical instructions
+- Show ability to quickly gain deep knowledge of complex systems
+- Provide user‑friendly documentation and onboarding material
+- Translate technical features into relatable, everyday use
+- Support colleagues with troubleshooting and best practices
 
 ## 📂 Contents
-- **QMS_Change_Request_Guide.md** – Step-by-step guide for raising and approving change requests
-- **AuditTrail_Review_Walkthrough.md** – How to perform and document audit trail reviews
-- **Incident_to_CAPA_Process.md** – Process mapping example from incident to CAPA
+- System_Setup_Guide.md
+- User_Onboarding_Tips.md
+- Troubleshooting_Playbook.md
+- Best_Practices.md
+- Advanced_Features_Walkthrough.md
 
 ## 🌍 Why This Matters
-Complex applications often create barriers between users, QA, and IT.  
-By creating walkthroughs and guides, we **bridge knowledge** and enable better communication, compliance, and efficiency.
+Complex applications can overwhelm new users and create barriers between IT, QA, and business.  
+By creating walkthroughs, guides, and troubleshooting playbooks, we **bridge knowledge** and make systems accessible, reliable, and effective in daily work.
