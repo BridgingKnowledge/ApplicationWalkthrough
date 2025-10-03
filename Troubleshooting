@@ -1,0 +1,70 @@
+# 🔧 Troubleshooting Playbook
+
+This playbook provides structured guidance for identifying and resolving common issues in complex applications.  
+It is designed to help both end-users and support specialists quickly find solutions and reduce downtime.
+
+---
+
+## 🎯 Purpose
+- Provide a clear, step-by-step troubleshooting approach
+- Empower users to solve frequent problems independently
+- Support specialists with a structured escalation path
+- Bridge communication between technical teams and end-users
+
+---
+
+## 🧩 Common Issues & Solutions
+
+### 1. Login Problems
+**Symptoms:** User cannot log in, error message: "Invalid credentials"  
+**Steps to resolve:**
+1. Verify username and password are correct (check for Caps Lock).  
+2. Confirm account is active (contact system admin if unsure).  
+3. If password reset is required, follow the *Password Reset Guide*.  
+4. If issue persists → escalate to IT support.
+
+---
+
+### 2. Missing Permissions
+**Symptoms:** User cannot access a module or function.  
+**Steps to resolve:**
+1. Check user role and assigned permissions in the system.  
+2. Compare with role matrix (who should have access).  
+3. If permissions are missing, request update via Change Request.  
+4. Document the incident for audit trail.
+
+---
+
+### 3. System Performance Issues
+**Symptoms:** Application is slow or unresponsive.  
+**Steps to resolve:**
+1. Ask user to log out and back in.  
+2. Check if issue is local (one user) or global (multiple users).  
+3. Verify network connection and system status page.  
+4. If widespread → escalate to IT operations with timestamp and logs.
+
+---
+
+### 4. Data Entry Errors
+**Symptoms:** User cannot save or submit data.  
+**Steps to resolve:**
+1. Check mandatory fields are filled in.  
+2. Verify data format (e.g., date, numeric values).  
+3. Review error message and match with *Error Code Reference*.  
+4. If unresolved → escalate with screenshot and steps to reproduce.
+
+---
+
+## 🚀 Escalation Path
+- **Level 1:** User self-service (this playbook)  
+- **Level 2:** Local super-user or specialist  
+- **Level 3:** IT support / system administrator  
+- **Level 4:** Vendor support (if external system)  
+
+---
+
+## 🌍 Why This Matters
+Troubleshooting is not just about fixing errors – it’s about **bridging knowledge**:  
+- Helping users feel confident and supported  
+- Ensuring issues are documented and resolved efficiently  
+- Reducing downtime and improving system reliability
